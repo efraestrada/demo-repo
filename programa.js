@@ -101,5 +101,5 @@ function guardar() {
     }
     var listado = document.getElementById("listado");
     listado.innerHTML = list;
-    alert(listado);
+    //alert(listado);
 }
