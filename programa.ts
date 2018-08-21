@@ -103,6 +103,7 @@ function guardar(){
 
 		listado.innerHTML = list;
 
+		// no se agrega correctamente
 		alert(listado);
 		
 
